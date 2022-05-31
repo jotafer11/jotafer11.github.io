@@ -55,6 +55,10 @@ li a {
     padding: 0 15px;
 }
 
+.rsone {
+    font-family: 'Russo One', sans-serif;
+}
+
 .cool-link::after {
     content: '';
     display: block;
